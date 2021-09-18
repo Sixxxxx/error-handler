@@ -1,0 +1,22 @@
+{
+  "name": "errorhandlerjs",
+  "version": "1.0.0",
+  "description": "an npm package that handles all generic errors ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sixxxxx/error-handler.git"
+  },
+  "author": "Ugochukwu Udeh(jcuudeh@gmail.com), Vitalis Ogbonna(agavitalisogbonna@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sixxxxx/error-handler/issues"
+  },
+  "homepage": "https://github.com/Sixxxxx/error-handler#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
